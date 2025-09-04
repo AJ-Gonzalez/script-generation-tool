@@ -1,0 +1,23 @@
+# Core GUI Framework
+customtkinter>=5.2.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Vector Database
+chromadb>=0.4.15
+
+# Markdown Processing
+markdown2>=2.4.0
+
+# YouTube Video Processing
+yt-dlp>=2023.10.13
+
+# Optional: For improved performance
+numpy>=1.24.0
+
+# Standard library modules (included with Python)
+# tkinter, threading, time, re, pathlib, json, logging, os, sys, subprocess, urllib

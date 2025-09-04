@@ -1,0 +1,11 @@
+CLAUDE.md
+*.pyc
+src/__pycache__/*
+*.tmp
+.claude/*
+chroma_db/*
+generated_scripts/*
+research_sources/*
+changelog.md
+build/*
+dist/*
